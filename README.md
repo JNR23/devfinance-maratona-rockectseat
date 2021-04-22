@@ -1,6 +1,10 @@
+# dev.finance$
+
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img src="assets/dev-finance.png" alt="dev.finances" title="dev.finance"  width="100%" />
 </h1>
+
+# Preview do app 👉 [dev.finance$](https://jnr23.github.io/maratona-discover-rocketseat/#)
 
 <br>
 
@@ -11,6 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+
+* Nenhum Framework foi utilizado
 
 ## 💻 Projeto
 
